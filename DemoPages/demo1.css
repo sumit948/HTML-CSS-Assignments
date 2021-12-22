@@ -1,0 +1,46 @@
+#fname{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;  
+}
+#city{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;  
+}
+#state{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;  
+}
+#Pincode{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;  
+}
+#Role{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;  
+}
+#Phone{
+    border: 2px;
+    padding-left: 1px;
+    color: black;
+    background-color: aquamarine;
+}
+button{
+    border: 2px;
+    background-color: green;
+    color: aliceblue;
+    border-left-color: rgb(196, 10, 10);
+}
+.main-class{
+    text-align: center;
+}
+
